@@ -1,3 +1,3 @@
 # Android
 
-# Alarm Clock and SD Card Assignment
+Alarm Clock and SD Card Assignment
